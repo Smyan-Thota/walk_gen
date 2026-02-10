@@ -1,7 +1,0 @@
-# Environment files (never commit API keys)
-.env
-.env.*
-!.env.example
-
-# OS
-.DS_Store
